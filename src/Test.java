@@ -3,6 +3,7 @@ public class Test {
     public static void main(String[] args) {
 
         int x = 5, y = 4, z = 11;
+
         y = x++;
 
         z = y-- - ++x;
