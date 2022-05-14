@@ -5,7 +5,7 @@ package task_21_40;
 public class Task_21 {
     public static void main(String[] args) {
 
-        int a = 15, b = 12, c = 11;
+        int a = 15, b = 18, c = 11;
 
         if (a > b && a > c) {
             System.out.println(a);
