@@ -15,6 +15,14 @@ public class Test {
         System.out.println("X = " + x);
         System.out.println("Y = " + y);
         System.out.println("Z = " + z);
+
+        int g = 150;
+        byte d;
+       // System.out.println(d);
+        d = (byte) g;
+        System.out.println(d);
+
+
     }
 }
 
