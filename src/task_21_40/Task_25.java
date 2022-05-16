@@ -6,9 +6,9 @@ package task_21_40;
 public class Task_25 {
     public static void main(String[] args) {
 
-        int a = 1, b = 2, c = 3;
+        int a = 2, b = 4, c = 2;
 
-        if (a + b < c || a + c < b || b + c < a) {
+        if (a + b > c && a + c > b && b + c > a) {
             System.out.println("'y = 1'");
         } else System.out.println("'y = 2'");
     }
