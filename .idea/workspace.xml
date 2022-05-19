@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56a9122-adda-4544-b267-9ebc7fe34589" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Task_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task_21_40/Task_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_21_40/Task_25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +55,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task_25">
-    <configuration name="Task_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_21_40.Task_21" />
+  <component name="RunManager" selected="Application.Task_7">
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Task" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_21_40.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_21_40.Task_25" />
+    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Task_4" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_21_40.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_21_40.Task_38" />
+    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Task_5" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_21_40.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_21_40.Task_39" />
+    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Task_6" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_21_40.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_21_40.Task_40" />
+    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Task_7" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_21_40.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_25" />
-        <item itemvalue="Application.Task_40" />
-        <item itemvalue="Application.Task_39" />
-        <item itemvalue="Application.Task_21" />
-        <item itemvalue="Application.Task_38" />
+        <item itemvalue="Application.Task_7" />
+        <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Task_5" />
+        <item itemvalue="Application.Task_4" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652556192098</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1652721131975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652721131975</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
