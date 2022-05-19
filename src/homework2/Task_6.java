@@ -13,7 +13,11 @@ public class Task_6 {
             while (myArray[i] != 0) {
                 x = x * 10 + myArray[i] % 10;
                 myArray[i] = myArray[i] / 10;
-
+                if(myArray[i] == 0){
+                    for (int j = 0; j < myArray2.length; j++) {
+                        myArray2[j] = x;
+                    }
+                }
             }
         }
     }

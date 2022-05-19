@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56a9122-adda-4544-b267-9ebc7fe34589" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework2/Task_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework2/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Task_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task_7">
+  <component name="RunManager" selected="Application.Task_6">
     <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.Task" />
       <module name="Lesson" />
@@ -123,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_7" />
         <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Task_7" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.Task_5" />
         <item itemvalue="Application.Task_4" />
@@ -175,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652721131975</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1652968494588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652968494588</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,5 +192,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework2/Task_6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
