@@ -2,6 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56a9122-adda-4544-b267-9ebc7fe34589" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_151_166/Task_160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_214.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_211_220/Task_220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_51_70/Task_70.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework2/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework2/Task_6.java" afterDir="false" />
     </list>
@@ -48,13 +88,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task_6">
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Task" />
+  <component name="RunManager" selected="Application.Task_220">
+    <configuration name="Task_216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_211_220.Task_216" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.*" />
+          <option name="PATTERN" value="task_211_220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Task_4" />
+    <configuration name="Task_217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_211_220.Task_217" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.*" />
+          <option name="PATTERN" value="task_211_220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Task_5" />
+    <configuration name="Task_218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_211_220.Task_218" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.*" />
+          <option name="PATTERN" value="task_211_220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Task_6" />
+    <configuration name="Task_219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_211_220.Task_219" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.*" />
+          <option name="PATTERN" value="task_211_220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework2.Task_7" />
+    <configuration name="Task_220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_211_220.Task_220" />
       <module name="Lesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework2.*" />
+          <option name="PATTERN" value="task_211_220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_6" />
-        <item itemvalue="Application.Task_7" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Task_5" />
-        <item itemvalue="Application.Task_4" />
+        <item itemvalue="Application.Task_220" />
+        <item itemvalue="Application.Task_219" />
+        <item itemvalue="Application.Task_218" />
+        <item itemvalue="Application.Task_217" />
+        <item itemvalue="Application.Task_216" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652968494588</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <created>1652969351640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652969351640</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,16 +239,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework2/Task_6.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
